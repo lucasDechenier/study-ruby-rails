@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+
+gem 'cpf_utils', '1.3.1' #versão exata
+# '>=1.3.1' versão maior ou igual que 1.3.1
+# '~>1.6' Aproximadamente 1.6, vai ficar entre 1.6 e 1.9
+gem 'faker'
